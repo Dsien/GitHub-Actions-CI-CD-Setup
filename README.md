@@ -33,3 +33,9 @@ A full-stack TypeScript/React quiz application with automated testing and deploy
 git clone https://github.com/Dsien/GitHub-Actions-CI-CD-Setup.git
 
 2. cd github-actions-ci-cd-setup
+
+## Render Link 
+https://github-actions-ci-cd-setup-85tv.onrender.com
+
+## Video Link
+
